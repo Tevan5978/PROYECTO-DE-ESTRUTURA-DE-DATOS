@@ -14,3 +14,13 @@ Aplicar de forma práctica los conceptos de complejidad algorítmica, estructura
   - Backtracking recursivo.
 - Visualización animada del recorrido del agente.
 - Comparación de rendimiento entre algoritmos (tiempo de ejecución, nodos explorados).
+
+## Tecnologías utilizadas
+- **Lenguaje:** Python
+- **Librerías:** Pygame (visualización), NumPy (manejo de matrices)
+- **Control de versiones:** Git y GitHub
+
+## Integrantes:
+- Carlos Daniel Jiménez
+- Estevan Gonzalez Beltrán
+- Isabella Flórez
